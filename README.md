@@ -59,7 +59,7 @@ And you are good to go.
 
 Here are some related projects
 
-[Awesome README](https://github.com/Anshu-Gulati)
+[Awesome README](https://github.com/Anshu-Gulati?tab=repositories)
 
 
 ## Feedback
